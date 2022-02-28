@@ -1,0 +1,16 @@
+Madrid;
+Barcelona;
+Milan;
+Zaragoza;
+PSG;
+Ajax;
+Bayern;
+Inter;
+Villarreal;
+Sevilla;
+Chelsea;
+Juventus;
+Zenit;
+Wolfsburg;
+LOSC;
+Atalanta;

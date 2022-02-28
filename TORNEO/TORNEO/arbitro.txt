@@ -1,0 +1,15 @@
+56431321;Izan;GarciaJose;20;Hombre;Activo;
+56431322;Antonio;Rodriguez;21;Hombre;Activo;
+56431323;Manuel;Martinez;30;Hombre;Activo;
+56431324;Jose;Gonzalez;25;Hombre;Activo;
+56431325;DavidJose;SanchezJose;27;Hombre;Activo;
+56431326;JuanJose;Fernandez;22;Hombre;Activo;
+56431327;Francisco;Perez;33;Hombre;Activo;
+56431328;Javier;Gomez;20;Hombre;Activo;
+56431329;Daniel;Martin;21;Hombre;Activo;
+56431330;Luis;Bernal;30;Hombre;Activo;
+56431331;Daniel;Perez;25;Hombre;Activo;
+56431332;Luis;Gomez;27;Hombre;Activo;
+56431333;ManuelJose;Martin;22;Hombre;Activo;
+56431334;Jose;Bernal;33;Hombre;Activo;
+56431335;DavidJose;MartinezJose;20;Hombre;Activo;
