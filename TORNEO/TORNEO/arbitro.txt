@@ -13,4 +13,3 @@
 56431333;ManuelJose;Martin;22;Hombre;Activo;
 56431334;Jose;Bernal;33;Hombre;Activo;
 56431335;DavidJose;MartinezJose;20;Hombre;Activo;
-rthyrfghrf
